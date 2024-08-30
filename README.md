@@ -43,7 +43,7 @@ Handling conflicts gracefully is important for maintaining healthy digital frien
 In summary, building digital friendships can be a rewarding experience, offering the opportunity to connect with people from different parts of the world and diverse backgrounds. By being genuine, engaging regularly, and showing mutual respect, you can form meaningful and lasting digital friendships.
 
 #
-### Meeting Friends Online and In-person
+### Meeting Friends Online and In-Person
 
 ![Donny](https://github.com/user-attachments/assets/37bb1ac7-af6d-4044-a7b1-ff1bf34a2ab6)
 
