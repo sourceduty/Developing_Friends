@@ -56,6 +56,8 @@ Statistically, both forms of social interaction are significant, but trends show
 #
 ### Drawbacks of Digital Meetings
 
+![Girlfriend Meme](https://github.com/user-attachments/assets/a2c39d87-0a30-4f96-97a8-9f552c7a086e)
+
 Digital meetings, while convenient and often necessary, come with a range of drawbacks when compared to in-person meetings. One of the most significant issues is the lack of non-verbal communication. In-person meetings benefit from body language, facial expressions, and other physical cues that enhance understanding and communication. Digital platforms often fail to capture these subtleties, leading to potential misunderstandings and a sense of disconnection among participants.
 
 Another drawback of digital meetings is the potential for technical difficulties. Issues such as poor internet connectivity, audio and video malfunctions, and software glitches can disrupt the flow of meetings, causing frustration and lost time. These technical problems can lead to significant delays and can be particularly challenging in high-stakes or time-sensitive discussions where smooth communication is crucial.
