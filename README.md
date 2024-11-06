@@ -67,6 +67,11 @@ Additionally, digital meetings can lead to reduced engagement and participation.
 Lastly, digital meetings can contribute to feelings of isolation and fatigue. The phenomenon of "Zoom fatigue" has become well-documented, where prolonged periods of virtual interaction lead to exhaustion and decreased productivity. The absence of physical presence and informal social interactions, such as casual conversations before or after meetings, can make it harder to build and maintain strong working relationships. This lack of personal connection can negatively impact team cohesion and morale over time.
 
 #
+### Reconnecting with Alex
+
+To all of Alex's old friends: If you’ve been meaning to catch up, now’s the perfect time! Alex has been hard at work growing Sourceduty, but he’s always up for reconnecting with familiar faces, especially over email. And for those who know him well, yes—he’s still on PUBG, diving in with his usual “unique” approach to gameplay (think: zero strategy, maximum chaos). While he's not organizing any formal gaming sessions, feel free to jump online; you might just find him running headfirst into a firefight. Or, just send him an email to reconnect and hear about his latest projects and misadventures.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
